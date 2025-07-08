@@ -21,7 +21,7 @@
   <section>
   <h2>Certifications</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CompTIA_logo.svg/200px-CompTIA_logo.svg.png" alt="CompTIA Security+ / CYSA+" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CompTIA_logo.svg/200px-CompTIA_logo.svg.png" alt="CompTIA Security+" width="100" />
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AZ-900" width="100" />
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ-104" width="100" />
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="AZ-500" width="100" />
