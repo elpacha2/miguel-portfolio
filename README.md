@@ -47,7 +47,7 @@
       <li><strong>Log Analysis:</strong> Investigated security events using Splunk & Wazuh.</li>
     </ul>
     <!-- Optional GitHub Links -->
-    <p>🔗 <a href="https://github.com/yourusername" target="_blank">View My GitHub Projects</a></p>
+    <p>🔗 <a href="https://github.com/elpacha2?tab=repositories" target="_blank">View My GitHub Projects</a></p>
   </section>
 
   <section>
