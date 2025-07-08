@@ -33,7 +33,7 @@
     <ul>
       <li><strong>SIEM/SOC Tools:</strong> Splunk, Wazuh, Snort</li>
       <li><strong>Cloud & Network:</strong> Azure IAM, NSG, Defender, Active Directory, pfSense</li>
-      <li><strong>Forensics & Pentesting:</strong> Wireshark, Metasploit, OWASP ZAP, Burp Suite | <a href="Lab#5 Entreprise CCNB.pdf" target="_blank">PENTEST ACTIVE DIRECTORY</a> </li>
+      <li><strong>Forensics & Pentesting:</strong> Wireshark, Metasploit, OWASP ZAP, Burp Suite | <a href="[Lab#5 Entreprise CCNB.pdf](https://github.com/elpacha2/PENTESTING---attaques-d-applications-Web/blob/main/Lab%235%20Entreprise%20CCNB.pdf)" target="_blank">PENTESTING---attaques d'applications-Web</a> </li>
       <li><strong>Programming:</strong> Python, Bash, HTML/CSS, JavaScript</li>
       <li><strong>Compliance:</strong> ISO 27001, NIST, COBIT</li>
     </ul>
