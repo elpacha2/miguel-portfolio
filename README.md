@@ -32,7 +32,7 @@
     <h2>Technical Skills</h2>
     <ul>
       <li><strong>SIEM/SOC Tools:</strong> Splunk, Wazuh, Snort</li>
-      <li><strong>Cloud & Network:</strong> Azure IAM, NSG, Defender, Active Directory, pfSense  | <a href="https://github.com/elpacha2/PENTESTING---attaques-d-applications-Web/blob/main/Lab%235%20Entreprise%20CCNB.pdf" target="_blank">PENTESTING---attaques d'applications-Web</a></li>
+      <li><strong>Cloud & Network:</strong> Azure IAM, NSG, Defender, Active Directory, pfSense  | <a href="https://github.com/elpacha2/Network-Security---Captive-Portail-avec-Pfsense-FreeRADIUS-et-DaloRADIUS/blob/main/labo%2312%20SECS1033%20miguel%20ngakou.pdf" target="_blank">Captive-Portail-avec-Pfsense</a></li>
       <li><strong>Forensics & Pentesting:</strong> Wireshark, Metasploit, OWASP ZAP, Burp Suite | <a href="https://github.com/elpacha2/PENTESTING---attaques-d-applications-Web/blob/main/Lab%235%20Entreprise%20CCNB.pdf" target="_blank">PENTESTING---attaques d'applications-Web</a> </li>
       <li><strong>Programming:</strong> Python, Bash, HTML/CSS, JavaScript</li>
       <li><strong>Compliance:</strong> ISO 27001, NIST, COBIT</li>
