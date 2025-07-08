@@ -19,14 +19,19 @@
   </section>
 
   <section>
-    <h2>Certifications</h2>
-    <ul>
-      <li>CompTIA Security+, CYSA+</li>
-      <li>Microsoft Azure: AZ-900, AZ-104, AZ-500</li>
-      <li>Cisco CCNA</li>
-      <li>In progress: ISO/IEC 27001 Lead Implementer, CISSP (ISC²), SOC Analyst (Splunk)</li>
-    </ul>
-  </section>
+  <h2>Certifications</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CompTIA_logo.svg/200px-CompTIA_logo.svg.png" alt="CompTIA Security+ / CYSA+" width="100" />
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AZ-900" width="100" />
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ-104" width="100" />
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="AZ-500" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/200px-Cisco_logo.svg.png" alt="Cisco CCNA" width="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ISO_Logo.svg/200px-ISO_Logo.svg.png" alt="ISO 27001 Lead Implementer (In progress)" width="100" />
+    <img src="https://www.isc2.org/-/media/ISC2/Images/Logos/ISC2-Logo.ashx" alt="CISSP (ISC²) (In progress)" width="100" />
+    <img src="https://www.splunk.com/content/dam/splunk2/images/certification/Splunk-Certified-Security-Analyst-badge.png" alt="SOC Analyst - Splunk (In progress)" width="100" />
+  </div>
+</section>
+
 
   <section>
     <h2>Technical Skills</h2>
